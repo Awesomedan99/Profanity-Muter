@@ -1,0 +1,2 @@
+# Profanity-Muter
+Mutes profanity 
